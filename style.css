@@ -6,7 +6,7 @@
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    margin: 10px, 50px, 50px,50px;
+    
 }
 
 .header {
@@ -50,9 +50,9 @@
     width: 425px;
     height: 195px;
     margin-left: 10px;
-    line-height: 50px
+    line-height: 50px;
 }
-
+     
 .h {
     background: #ebebeb;
     color: #777;
@@ -64,5 +64,15 @@
     background: #ebebeb;
     color: #777;
     width: 400px;
-    margin: auto;
+    margin: 10px auto auto auto;
+    
+}
+
+.footer {
+    width: 800px;
+    height: 75px;
+    background: #ebebeb;
+    line-height: 75px;
+    color: #777;
+    margin: 60px 100px 100px -10px;
 }
